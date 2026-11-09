@@ -1,0 +1,17 @@
+:root {
+  --vp-c-brand-1: #315c4c;
+  --vp-c-brand-2: #437461;
+  --vp-c-brand-3: #315c4c;
+  --vp-c-brand-soft: rgba(49, 92, 76, .12);
+  --vp-home-hero-name-color: #315c4c;
+  --vp-font-family-base: 'Inter', system-ui, sans-serif;
+}
+.dark {
+  --vp-c-brand-1: #a2d1b7;
+  --vp-c-brand-2: #b6dfc8;
+  --vp-c-brand-3: #437461;
+  --vp-home-hero-name-color: #a2d1b7;
+}
+.VPHero .name { letter-spacing: -0.045em; }
+.VPFeature { border-radius: 6px !important; }
+.vp-doc th { white-space: nowrap; }
