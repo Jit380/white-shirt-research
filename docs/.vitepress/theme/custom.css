@@ -15,3 +15,13 @@
 .VPHero .name { letter-spacing: -0.045em; }
 .VPFeature { border-radius: 6px !important; }
 .vp-doc th { white-space: nowrap; }
+
+.feedback-box { margin-top: 32px; padding: 20px 24px; border: 1px solid var(--vp-c-divider); border-radius: 8px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+.feedback-box strong { color: var(--vp-c-text-1); font-size: 16px; }
+.feedback-box p { margin: 4px 0 0; font-size: 14px; color: var(--vp-c-text-2); }
+.feedback-box small { width: 100%; color: var(--vp-c-text-2); font-size: 12px; }
+.feedback-link { margin-left: auto; background: var(--vp-c-brand-3); color: white; border-radius: 20px; padding: 8px 16px; font-size: 14px; font-weight: 600; white-space: nowrap; }
+.feedback-link:hover { background: var(--vp-c-brand-2); }
+.feedback-link:focus-visible { outline: 3px solid var(--vp-c-brand-1); outline-offset: 4px; }
+.home-feedback { max-width: 1200px; padding: 0 24px; margin: 0 auto; }
+@media (max-width: 640px) { .feedback-link { margin-left: 0; } .feedback-box { padding: 18px; } }

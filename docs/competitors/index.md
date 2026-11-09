@@ -1,20 +1,24 @@
-# Competitor directory
+# Competitor research
 
-## Initial research queue
+Study how other brands sell a plain white T-shirt. Start with single-product and T-shirt-focused brands, then use broader retailers for comparison.
 
-These are candidate names to investigate, not a verified list of single-product brands. Confirm assortment, current product availability, and relevance before including a candidate in the final landscape.
+## Profiles & comparison
 
-| Candidate | Profile | Business category | Status |
+These six names are **candidates, not verified single-product brands**. Select a comparable white crew-neck tee and check each brand's current range before filling in the table. Working scope: US online shopping, USD.
+
+| Competitor | Brand focus | White tee / price | Main takeaway |
 | --- | --- | --- | --- |
-| ASKET | [Open profile](./asket) | Unverified | Not started |
-| True Classic | [Open profile](./true-classic) | Unverified | Not started |
-| Fresh Clean Threads | [Open profile](./fresh-clean-threads) | Unverified | Not started |
-| Buck Mason | [Open profile](./buck-mason) | Unverified | Not started |
-| UNIQLO | [Open profile](./uniqlo) | Unverified | Not started |
-| Sunspel | [Open profile](./sunspel) | Unverified | Not started |
+| [ASKET](./asket) | To research | To research | — |
+| [True Classic](./true-classic) | To research | To research | — |
+| [Fresh Clean Threads](./fresh-clean-threads) | To research | To research | — |
+| [Buck Mason](./buck-mason) | To research | To research | — |
+| [UNIQLO](./uniqlo) | To research | To research | — |
+| [Sunspel](./sunspel) | To research | To research | — |
 
-## Broaden the shortlist
+## What to collect
 
-Search specifically for independent brands built around one T-shirt model. Record the discovery query, date, and candidate URL in the source register. Keep candidates that fail the inclusion criteria in an exclusions note with a reason.
+Keep each profile short: **product and price → audience and positioning → website and persuasion → takeaways**. Add screenshots when useful and put dated source links on the same page.
 
-Use the [profile template](./template) for new candidates and the [comparison matrix](/research/comparison) when observations have sources.
+Separate what a brand claims from what we observe. Treat archetypes and persuasion techniques as interpretations backed by examples. Leave unknowns explicit; compare pack prices per shirt and label sales.
+
+[Use the profile template](./template) · [Suggest a competitor](https://github.com/Jit380/white-shirt-research/issues/new?template=competitor.md)

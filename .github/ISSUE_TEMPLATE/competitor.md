@@ -1,25 +1,14 @@
 ---
-name: Competitor research
-about: Complete one evidence-backed competitor profile
-title: 'Research: [brand name]'
+name: Research a competitor
+about: Suggest a brand or collect evidence for a competitor profile.
+title: 'Research: '
 ---
 
-## Candidate and comparable product
+## Brand and product
+Brand name and official product link:
 
-Brand:
-Product URL:
-Business-category evidence:
+## Why include it?
+Is it a single-product brand, T-shirt-focused brand, or broader retailer?
 
-## Tasks
-
-- [ ] Verify inclusion criteria and assortment
-- [ ] Select comparable white tee
-- [ ] Record dated sources, specifications, and pricing
-- [ ] Review positioning and shopping experience
-- [ ] Record customer evidence and limitations
-- [ ] Update profile, matrix, and source register
-- [ ] Run `npm run docs:build`
-
-## Open questions
-
-## Source IDs
+## Evidence / next step
+Add dated sources or explain what to research next.
