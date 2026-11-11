@@ -12,6 +12,18 @@ Fit, comfort, and value lead the message. The page offers length comparisons, bu
 
 **Branding interpretation:** Everyman traits fit its approachable everyday-clothing pitch. Customer reviews and sales-volume claims are social-proof cues, not independent quality evidence. Promotional pricing is not proof of genuine scarcity.
 
+## Archetype analysis
+
+**Primary: Everyman. Secondary: Caregiver. Confidence: moderate for primary; lower for secondary.**
+
+The [official wholesale About page](https://wholesale.trueclassictees.com/pages/about-us) describes a mission to help everyday men feel and look good at an accessible price. That directly supports an Everyman reading. Its account of donations to veterans and other communities adds Caregiver traits; the brand’s account is not an independent impact audit.
+
+**Alternative:** fit-related confidence could suggest Hero, but this sample emphasizes everyday accessibility more than exceptional achievement.
+
+**Competitive implication:** competing on broad relatability alone would be difficult. Our brand needs a more specific customer problem, not just a similar friendly tone.
+
+Brand-story source accessed November 11, 2026. [Full archetype comparison](/research/archetypes) · [Competitive analysis](/research/competitive-analysis).
+
 ## Key takeaway
 
 Explain the fit benefit clearly, but keep single-shirt pricing easy to distinguish from bundles and memberships.

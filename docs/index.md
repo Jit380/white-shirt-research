@@ -25,9 +25,14 @@ import WelcomeAudio from './.vitepress/theme/WelcomeAudio.vue'
 | --- | --- |
 | [ASKET](/competitors/asket) | Make quality and fit specific. |
 | [True Classic](/competitors/true-classic) | Explain the fit benefit without pricing confusion. |
-| [Fresh Clean Threads](/competitors/fresh-clean-threads) | Help shoppers picture how the shirt fits them. |
+| [Fresh Clean Tees](/competitors/fresh-clean-threads) | Help shoppers picture how the shirt fits them. |
 
 Three initial profiles are ready. [Compare prices, evidence, and open questions](/competitors/). These are research observations, not final brand decisions.
+
+## Go deeper
+
+**[Brand archetypes](/research/archetypes)** — how each competitor builds its personality.  
+**[Competitive analysis](/research/competitive-analysis)** — where the offers overlap and what we should test next.
 
 ## What comes next
 

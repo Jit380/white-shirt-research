@@ -10,7 +10,7 @@ Research for our future plain white T-shirt brand.
 - **Competitor research:** profiles and a comparison table, with sources kept on each profile.
 - **Our project:** future customer persona, archetype branding, Cialdini persuasion principles, design direction, and website/coding plan.
 
-Three initial competitor profiles are researched with dated official sources: ASKET, True Classic, and Fresh Clean Threads. Three more remain in the queue. Brand direction is still undecided.
+Three initial competitor profiles are researched with dated official sources: ASKET, True Classic, and Fresh Clean Tees. Three more remain in the queue. Brand direction is still undecided.
 
 The homepage includes a synthetic welcome recording, native audio controls, a download link, and a collapsed transcript. Audio source text is in `docs/public/audio/welcome-transcript.txt`.
 
@@ -38,3 +38,9 @@ Copy `docs/competitors/template.md`, add a row to `docs/competitors/index.md`, a
 Future planning documents will be linked from `docs/project.md`. Old research URLs remain as short pointers to the simplified sections.
 
 Prepared with AI assistance. Research claims require verification.
+
+## Analysis
+
+[Brand archetypes](https://jit380.github.io/white-shirt-research/research/archetypes.html) · [Competitive analysis](https://jit380.github.io/white-shirt-research/research/competitive-analysis.html)
+
+Primary and secondary archetype interpretations link to brand evidence. The analysis compares positioning and proposes research tests without choosing our final brand direction. Fresh Clean Tees was formerly called Fresh Clean Threads; its existing profile URL is preserved.

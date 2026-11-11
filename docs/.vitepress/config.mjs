@@ -17,12 +17,14 @@ export default defineConfig({
       { text: 'Workspace', items: [
         { text: 'Overview', link: '/' },
         { text: 'Competitor research', link: '/competitors/' },
+        { text: 'Brand archetypes', link: '/research/archetypes' },
+        { text: 'Competitive analysis', link: '/research/competitive-analysis' },
         { text: 'Our project · later', link: '/project' }
       ] },
       { text: 'Competitor profiles', collapsed: false, items: [
         { text: 'ASKET', link: '/competitors/asket' },
         { text: 'True Classic', link: '/competitors/true-classic' },
-        { text: 'Fresh Clean Threads', link: '/competitors/fresh-clean-threads' },
+        { text: 'Fresh Clean Tees', link: '/competitors/fresh-clean-threads' },
         { text: 'Buck Mason', link: '/competitors/buck-mason' },
         { text: 'UNIQLO', link: '/competitors/uniqlo' },
         { text: 'Sunspel', link: '/competitors/sunspel' }

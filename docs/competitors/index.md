@@ -6,9 +6,14 @@ Our first pass compares three men's plain white crew-neck T-shirts. **None of th
 | --- | --- | --- |
 | [ASKET](./asket) | $65 | Explain materials and measurements |
 | [True Classic](./true-classic) | $29.99 sale; $34.99 crossed out | Make the fit benefit and price clear |
-| [Fresh Clean Threads](./fresh-clean-threads) | $23 before codes | Show fit on different bodies |
+| [Fresh Clean Tees](./fresh-clean-threads) | $23 before codes | Show fit on different bodies |
 
 **Checked November 11, 2026.** Prices exclude shipping and tax; promotions can change. Sources are linked on each profile. These observations do not prove product quality or validate a customer persona.
+
+## Read the analysis
+
+- **[Brand archetypes](/research/archetypes):** the framework, evidence, and alternative interpretations.
+- **[Competitive analysis](/research/competitive-analysis):** positioning, strengths, tradeoffs, and two directions to test.
 
 ## What this suggests for us
 
