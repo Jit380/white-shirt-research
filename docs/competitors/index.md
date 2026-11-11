@@ -1,24 +1,25 @@
 # Competitor research
 
-Study how other brands sell a plain white T-shirt. Start with single-product and T-shirt-focused brands, then use broader retailers for comparison.
+Our first pass compares three men's plain white crew-neck T-shirts. **None of these brands is currently single-product:** each sells additional apparel.
 
-## Profiles & comparison
+| Profile | Single-shirt price, USD | What to learn |
+| --- | --- | --- |
+| [ASKET](./asket) | $65 | Explain materials and measurements |
+| [True Classic](./true-classic) | $29.99 sale; $34.99 crossed out | Make the fit benefit and price clear |
+| [Fresh Clean Threads](./fresh-clean-threads) | $23 before codes | Show fit on different bodies |
 
-These six names are **candidates, not verified single-product brands**. Select a comparable white crew-neck tee and check each brand's current range before filling in the table. Working scope: US online shopping, USD.
+**Checked November 11, 2026.** Prices exclude shipping and tax; promotions can change. Sources are linked on each profile. These observations do not prove product quality or validate a customer persona.
 
-| Competitor | Brand focus | White tee / price | Main takeaway |
-| --- | --- | --- | --- |
-| [ASKET](./asket) | To research | To research | — |
-| [True Classic](./true-classic) | To research | To research | — |
-| [Fresh Clean Threads](./fresh-clean-threads) | To research | To research | — |
-| [Buck Mason](./buck-mason) | To research | To research | — |
-| [UNIQLO](./uniqlo) | To research | To research | — |
-| [Sunspel](./sunspel) | To research | To research | — |
+## What this suggests for us
 
-## What to collect
+- **Fit confidence:** test whether measurements and model examples help people choose.
+- **Trust:** provide evidence for our eventual claims and use only authentic reviews.
+- **Clarity:** keep the product, price, and next action easy to understand.
 
-Keep each profile short: **product and price → audience and positioning → website and persuasion → takeaways**. Add screenshots when useful and put dated source links on the same page.
+Our archetype, audience, persuasion approach, and modern/postmodern design direction remain undecided. Branding notes in profiles are interpretations, not statements from the brands. This pass uses official page content; it is not a Safari visual audit, checkout test, or wear test.
 
-Separate what a brand claims from what we observe. Treat archetypes and persuasion techniques as interpretations backed by examples. Leave unknowns explicit; compare pack prices per shirt and label sales.
+## Research queue
 
-[Use the profile template](./template) · [Suggest a competitor](https://github.com/Jit380/white-shirt-research/issues/new?template=competitor.md)
+[Buck Mason](./buck-mason) · [UNIQLO](./uniqlo) · [Sunspel](./sunspel) — not researched yet.
+
+[Profile template](./template) · [Suggest a competitor](https://github.com/Jit380/white-shirt-research/issues/new?template=competitor.md)

@@ -1,24 +1,23 @@
 # True Classic
 
-**Status:** awaiting research. No product details or brand claims verified yet.
+**Reviewed November 11, 2026 · T-shirt-led, expanded apparel range**
 
-## At a glance
+## Product facts
 
-| Product & price | Audience & positioning |
-| --- | --- |
-| White tee: to select | Intended customer: to research |
-| Price / pack size: to record | Main promise: to research |
-| Fabric / fit: to record | Brand focus: verify current range |
+The white **Classic Crew Neck** shows **$29.99 USD sale / $34.99 crossed-out price**, single shirt. The listed fabric is 60% cotton / 40% polyester, with an athletic fit. Its navigation includes bottoms and outerwear. [Source](#source)
 
-## Website & persuasion
+## Positioning & website
 
-Add a few observations and useful screenshots about the product page, sizing, and buying experience. Note possible brand archetypes, Cialdini principles, and modern or postmodern design choices **only when supported by specific examples**.
+Fit, comfort, and value lead the message. The page offers length comparisons, bundles, customer try-ons, and reviews.
 
-## What we can learn
+**Branding interpretation:** Everyman traits fit its approachable everyday-clothing pitch. Customer reviews and sales-volume claims are social-proof cues, not independent quality evidence. Promotional pricing is not proof of genuine scarcity.
 
-- **Useful idea:** pending research.
-- **Gap or question:** pending research.
+## Key takeaway
 
-## Sources
+Explain the fit benefit clearly, but keep single-shirt pricing easy to distinguish from bundles and memberships.
 
-Add links, date checked, and a short note on what each source supports. Distinguish seller claims, customer reports, and our interpretation.
+**Still to test:** fit across body types and whether promotions distract from choosing the right shirt.
+
+## Source
+
+[Official white Classic Crew page](https://www.trueclassictees.com/products/white-crew-neck-tee), accessed November 11, 2026. Prices are a promotional snapshot; checkout, shipping, and product performance were not tested.

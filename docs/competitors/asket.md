@@ -1,24 +1,23 @@
 # ASKET
 
-**Status:** awaiting research. No product details or brand claims verified yet.
+**Reviewed November 11, 2026 · broader apparel brand**
 
-## At a glance
+## Product facts
 
-| Product & price | Audience & positioning |
-| --- | --- |
-| White tee: to select | Intended customer: to research |
-| Price / pack size: to record | Main promise: to research |
-| Fabric / fit: to record | Brand focus: verify current range |
+The white **T-Shirt** is listed at **$65 USD** for one shirt. ASKET specifies 100% organic long-staple cotton, 180gsm jersey, Portuguese production, a straight fit, and three lengths. Its catalog also includes jeans, shirts, and outerwear. [Source](#source)
 
-## Website & persuasion
+## Positioning & website
 
-Add a few observations and useful screenshots about the product page, sizing, and buying experience. Note possible brand archetypes, Cialdini principles, and modern or postmodern design choices **only when supported by specific examples**.
+The product page emphasizes construction and measurements. **Audience hypothesis:** shoppers who want detailed information before paying more for an everyday basic.
 
-## What we can learn
+**Branding interpretation:** Sage traits appear in its educational sizing and material explanations. Reviews provide social proof. The structured product information suggests a functional, modern approach; visual style needs a separate review.
 
-- **Useful idea:** pending research.
-- **Gap or question:** pending research.
+## Key takeaway
 
-## Sources
+Make quality and fit specific: measurements and material details are more useful than an unsupported “premium” claim.
 
-Add links, date checked, and a short note on what each source supports. Distinguish seller claims, customer reports, and our interpretation.
+**Still to test:** opacity, wash durability, and whether shoppers find the extra length choice helpful.
+
+## Source
+
+[Official US white T-Shirt page](https://www.asket.com/en-us/mens-t-shirt-white), accessed November 11, 2026. Product facts and catalog categories are seller disclosures, not independent performance tests.

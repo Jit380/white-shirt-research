@@ -10,7 +10,9 @@ Research for our future plain white T-shirt brand.
 - **Competitor research:** profiles and a comparison table, with sources kept on each profile.
 - **Our project:** future customer persona, archetype branding, Cialdini persuasion principles, design direction, and website/coding plan.
 
-Six candidate profiles are awaiting research. We have not chosen our brand direction or verified competitor claims.
+Three initial competitor profiles are researched with dated official sources: ASKET, True Classic, and Fresh Clean Threads. Three more remain in the queue. Brand direction is still undecided.
+
+The homepage includes a synthetic welcome recording, native audio controls, a download link, and a collapsed transcript. Audio source text is in `docs/public/audio/welcome-transcript.txt`.
 
 ## Feedback and changes
 

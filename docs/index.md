@@ -3,20 +3,34 @@ layout: home
 hero:
   name: White Shirt Project
   text: Research first. Brand later.
-  tagline: A simple workspace for studying competitors before building our own plain white T-shirt brand.
+  tagline: Welcome to our shared workspace for building a plain white T-shirt brand.
   actions:
     - theme: brand
-      text: Explore competitor research
+      text: Read the first three profiles
       link: /competitors/
     - theme: alt
       text: Our project · later
       link: /project
 ---
 
-## Where we are
+<script setup>
+import WelcomeAudio from './.vitepress/theme/WelcomeAudio.vue'
+</script>
 
-**Now:** compare competitors, collect sources, and note what we can learn. Six candidate profiles are ready to fill in; research has not started yet.
+<WelcomeAudio />
 
-**Next:** use the findings to define our customer, brand, and website.
+## First research takeaways
 
-**Feedback and tasks:** [track them in GitHub Issues](https://github.com/Jit380/white-shirt-research/issues). Suggest a correction, add a competitor, or request a site change.
+| Competitor | Takeaway for our project |
+| --- | --- |
+| [ASKET](/competitors/asket) | Make quality and fit specific. |
+| [True Classic](/competitors/true-classic) | Explain the fit benefit without pricing confusion. |
+| [Fresh Clean Threads](/competitors/fresh-clean-threads) | Help shoppers picture how the shirt fits them. |
+
+Three initial profiles are ready. [Compare prices, evidence, and open questions](/competitors/). These are research observations, not final brand decisions.
+
+## What comes next
+
+Use the evidence to test customer needs, then define our persona, archetype, persuasion approach, design direction, and coding plan. [See our project](/project).
+
+Have feedback? Use **Suggest a change** or [view GitHub Issues](https://github.com/Jit380/white-shirt-research/issues).
