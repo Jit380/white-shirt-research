@@ -9,7 +9,7 @@ hero:
       text: Read the first three profiles
       link: /competitors/
     - theme: alt
-      text: Our project · later
+      text: EKO storefront decision
       link: /project
 ---
 
@@ -36,6 +36,6 @@ Three initial profiles are ready. [Compare prices, evidence, and open questions]
 
 ## What comes next
 
-Use the evidence to test customer needs, then define our persona, archetype, persuasion approach, design direction, and coding plan. [See our project](/project).
+See which fit finding changed the EKO size selector, why the demo uses static HTML, and how a classmate can test it. [Read the storefront decision](/project).
 
 Have feedback? Use **Suggest a change** or [view GitHub Issues](https://github.com/Jit380/white-shirt-research/issues).
