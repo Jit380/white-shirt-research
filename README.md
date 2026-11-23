@@ -35,7 +35,7 @@ Run `npm run docs:build` before merging. `npm run docs:preview` previews the pro
 
 Copy `docs/competitors/template.md`, add a row to `docs/competitors/index.md`, and add the profile to the sidebar in `docs/.vitepress/config.mjs`. Keep dated source links with observations. Clearly label interpretations and unknowns.
 
-Future planning documents will be linked from `docs/project.md`. Old research URLs remain as short pointers to the simplified sections.
+[EKO storefront decision](docs/project.md) connects three competitor observations to the demo, compares architecture options, and defines the pending peer check. Old research URLs remain as short pointers to the simplified sections.
 
 Prepared with AI assistance. Research claims require verification.
 
